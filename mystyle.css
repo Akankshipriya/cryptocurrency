@@ -1,0 +1,16 @@
+.navbar-default{
+    background-color: black;
+}
+.navbar-brand{
+    color:beige;
+    font-size: 45px;
+}
+
+.d-flex{
+    float:right;
+}
+
+.btn-outline-success{
+    float:right;
+
+}
